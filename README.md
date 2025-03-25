@@ -5,8 +5,8 @@ Evita a necessidade de criar manualmente 1440 arquivos WAV.
 
 ## Formato dos Arquivos WAV de entrada
 
-- 24 arquivos de hora no formato "H-HH.wav" (exemplo: "H-00.wav", "H-01.wav", ..., "H-23.wav").
-- 60 arquivos de minuto no formato "M-MM.wav" (exemplo: "M-00.wav", "M-01.wav", ..., "M-59.wav").
+- 24 arquivos de hora no formato "Hxx.wav" (exemplo: "H00.wav", "H01.wav", ..., "H23.wav").
+- 60 arquivos de minuto no formato "Mxx.wav" (exemplo: "M00.wav", "M01.wav", ..., "M59.wav").
 
 Se for mesclar 4 arquivos WAV, os arquivos de pré e pós devem ser nomeados como "PRE.wav" e "POS.wav".
 
